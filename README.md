@@ -1,0 +1,1 @@
+# git-config for vim
